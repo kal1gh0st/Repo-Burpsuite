@@ -3,11 +3,6 @@
 💥 All the power of PayloadsAllTheThings, without the overhead. 
 This extension adds autocompletion support and useful payloads in Burp Suite to make your intrusion easier.
 
-Feel free to improve with your payloads ! ❤️
-
-Developed by Alexis Danizan [![Twitter Follow](https://img.shields.io/twitter/follow/alexisdanizan?style=social)](https://twitter.com/alexisdanizan/)  
-Released as open source by [Synacktiv 🥷](https://www.synacktiv.com/) 
-
 
 ![Demo GIF](img/demo.gif)
 
